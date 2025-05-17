@@ -7,6 +7,7 @@ Agenda es una aplicación web desarrollada para gestionar contactos y eventos de
 ## Instrucciones de instalación y ejecución
 
 1. Clona o descarga este repositorio en tu servidor local.
+   `https://github.com/china153/AgendaPHP.git`
 2. Copia la carpeta en el directorio `htdocs` de XAMPP.
 3. Crea una base de datos en MySQL llamada `agenda1`.
 4. Importa el archivo `contactos.sql` y  `usuario.sql` incluido en el proyecto.
