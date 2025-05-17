@@ -32,6 +32,18 @@ Agenda es una aplicación web desarrollada para gestionar contactos y eventos de
     <img src="capturas/Inicio_sesion.png" alt="Captura de pantalla inicial" width="600"/>
 </p>
 
+## Captura de pantalla cuando ingresa el administrador
+
+<p>
+    <img src="capturas/sesion_admin.png" alt="Captura de pantalla inicial" width="600"/>
+</p>
+
+## Captura de pantalla cuando ingresa un usuario
+
+<p>
+    <img src="capturas/sesion_usuario.png" alt="Captura de pantalla inicial" width="600"/>
+</p>
+
 ## Información de contacto
 
 - **Nombre completo:** Murguía Morales Alma Karen
