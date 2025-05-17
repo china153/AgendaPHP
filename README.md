@@ -2,17 +2,17 @@
 
 ## Descripción breve del proyecto
 
-Agenda es una aplicación web desarrollada para gestionar contactos y eventos de manera eficiente, utilizando PHP y MySQL el el cual al administrador podra ver los contactos de los dos usuarios y los usuarios solo podrán ver sus propios contactos.
+Agenda es una aplicación web desarrollada para gestionar contactos y eventos de manera eficiente, utilizando PHP y MySQL, todo esto usando un CRUD (Crear, leer, modificar y eliminar) en el cual ae administrador podra ver los contactos de los dos usuarios y los usuarios solo podrán ver sus propios contactos.
 
 ## Instrucciones de instalación y ejecución
 
 1. Clona o descarga este repositorio en tu servidor local.
 2. Copia la carpeta en el directorio `htdocs` de XAMPP.
-3. Crea una base de datos en MySQL llamada `agenda_modularidad`.
-4. Importa el archivo `contactos.sql` y  `usuarios.sql` incluido en el proyecto.
+3. Crea una base de datos en MySQL llamada `agenda1`.
+4. Importa el archivo `contactos.sql` y  `usuario.sql` incluido en el proyecto.
 5. Inicia Apache y MySQL desde el panel de control de XAMPP.
 6. Accede a la aplicación desde tu navegador en:  
-    `http://localhost/agenda_modularidad/`
+    `http://localhost/agenda_modularidad/index.php`
 
 ## Usuarios de acceso
 
@@ -34,5 +34,6 @@ Agenda es una aplicación web desarrollada para gestionar contactos y eventos de
 
 ## Información de contacto
 
-**Nombre completo:** [Murguía Morales Alma Karen]  
-**Correo electrónico:** [karen.mur.mor@gmail.com]
+**Nombre completo:** Murguía Morales Alma Karen
+**Carrera:** Ingeniería en Sistemas Computacionales
+**Correo electrónico:** karen.mur.mor@gmail.com
