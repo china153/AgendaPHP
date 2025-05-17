@@ -34,6 +34,6 @@ Agenda es una aplicación web desarrollada para gestionar contactos y eventos de
 
 ## Información de contacto
 
-**Nombre completo:** Murguía Morales Alma Karen
-**Carrera:** Ingeniería en Sistemas Computacionales
-**Correo electrónico:** karen.mur.mor@gmail.com
+**Nombre completo:** [Murguía Morales Alma Karen]
+**Carrera:** [Ingeniería en Sistemas Computacionales]
+**Correo electrónico:** [karen.mur.mor@gmail.com]
